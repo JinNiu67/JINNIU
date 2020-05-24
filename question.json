@@ -1,0 +1,18 @@
+{
+
+	"question":[
+
+		{
+
+			"first question":"What is my name?",
+			"choice1":"John",
+			"choice2":"Mickey",
+			"choice3":"twitter",
+			"choice4":"Michael",
+			"answer":"John"
+
+		}
+
+	]
+
+}
